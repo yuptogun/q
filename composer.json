@@ -1,0 +1,13 @@
+{
+    "name": "yuptogun/q",
+    "description": "Simple PDO Query Builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eojin K.",
+            "email": "yuptogun@gmail.com"
+        }
+    ],
+    "require": {}
+}
